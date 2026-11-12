@@ -32,7 +32,6 @@ NetDrift is not a toy chat/port-scanner. It demonstrates:
 | Notify | Optional webhook (Slack/Discord/custom) |
 | Reports | JSON + Markdown + HTML |
 | Dashboard | `netdrift serve` on `http://127.0.0.1:8765` |
-| Demos | 14 simulate scenarios for CV/interview |
 
 ---
 
