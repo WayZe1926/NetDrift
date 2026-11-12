@@ -113,12 +113,6 @@ capture_snapshot() ──► NetworkSnapshot (+ health score)
 
 ---
 
-## CV bullet
-
-> Built **NetDrift 2.0**, an advanced host-network integrity platform that baselines DNS/gateway/ARP/proxy/Wi‑Fi/TLS/hosts/VPN/firewall/DHCP state, detects silent drift with health scoring and blame reports, stores incidents in SQLite, exposes a local dashboard/API, and ships interview-ready attack simulations.
-
----
-
 ## Development
 
 ```powershell
